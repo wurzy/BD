@@ -1,3 +1,3 @@
-# Clínica Pé de Atleta (Athlete's Foot Clinic)
+# BD 2019/2020
 
 Databases Class assignments, 2019-2020
